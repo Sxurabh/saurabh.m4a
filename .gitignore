@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+build/
+
+# env
+.env*
+!.env.example
+
+# superpowers SDD scratch
+.superpowers/
+
+# worktrees
+.worktrees/
+
+# misc
+.DS_Store
+*.log
+coverage/
